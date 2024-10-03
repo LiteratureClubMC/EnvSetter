@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="envsetter">
+    <output-path>$PROJECT_DIR$/out/artifacts/envsetter</output-path>
+    <root id="archive" name="envsetter.jar">
+      <element id="module-output" name="envsetter" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jna-5.15.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jna-platform-5.15.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/imaginebreaker-2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
